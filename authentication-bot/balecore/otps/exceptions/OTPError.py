@@ -1,2 +1,0 @@
-class OTPError(Exception): 
-    pass
