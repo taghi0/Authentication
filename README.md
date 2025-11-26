@@ -16,6 +16,7 @@ A Python-based authentication bot that provides secure user authentication and s
 ```bash
 git clone https://github.com/taghi0/Authentication.git
 cd authentication-bot
+git clone https://github.com/taghi0/balecore.git
 ```
 
 2. Run the application:
